@@ -71,7 +71,7 @@ s.close()
 ## Output
 ![alt text](<Screenshot 1.png>)
 ![alt text](<Screenshot 2.png>)
-![alt text](<Screenshot 3.png>)
+
 ![alt text](Tracerote.png)
 ![alt text](5.png)
 ![alt text](<Screenshot 6.png>)
